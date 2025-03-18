@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 All of my projects are available at [portfolio]([portfolio](https://jeneeshapriyadarshani.github.io/MyPortfolio/))
 
 - 📫 How to reach me **jeneeliya@gmail.com**
 
-- 📄 Know about my experiences [portfolio](portfolio)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
