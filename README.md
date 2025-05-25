@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [[portfolio](https://jeneeshapriyadarshani.github.io/MyPortfolio/)]
 
-- 📫 How to reach me **jeneeliya@gmail.com**
+- 📫 How to reach me **jeneeliya2@gmail.com**
 
 
 
