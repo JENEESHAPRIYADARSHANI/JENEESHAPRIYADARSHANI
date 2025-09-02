@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeneesha Priyadarshani</h1>
-<h3 align="center">Computer Science Undergraduate | Aspiring Full-Stack Web Developer</h3>
+<h3 align="center">Computer Science Undergraduate | Aspiring Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeneeshapriyadarshani&label=Profile%20views&color=0e75b6&style=flat" alt="jeneeshapriyadarshani" /> </p>
 
